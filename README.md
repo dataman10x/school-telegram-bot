@@ -141,4 +141,4 @@ Access the Vision, Mission, Core Values, History and School song.
 ## Summary
 Many students found it very convenient to use the app for activation. A certain concern of a parent came up that telegram is considered an uncensored app. This is just an additional way for admin number activation. This bot was created on 12th September, 2024, and was deployed on 11th October, 2024.
 
-You may interact with the bot on ![t.me/SAACinfobot](https://t.me/SAACinfobot)
+You may interact with the bot on [t.me/SAACinfobot](https://t.me/SAACinfobot)
